@@ -1,0 +1,10 @@
+1x Arduino Nano or compatible
+1k 100k Ohm Resistor
+1x standard LDR (Light Dependent Resistor)
+1x standard PIR (Passive InfraRed sensor)
+50cm (30 LEDs) of 5v white LED Strip, SMD3528
+1 small Breadboard (30 pins length)
+3x male-female jumper wires or dupont wires (for PIR sensor)
+1 longer male-male jumper wire (for cutting in half, and soldering to LED strip)
+
+

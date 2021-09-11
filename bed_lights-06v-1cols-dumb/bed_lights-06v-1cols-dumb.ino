@@ -1,5 +1,5 @@
  
-//Simple Under-Bed LED strip lighting. Code by Jack Machiela, 2018 v1.0
+// Simple Under-Bed LED strip lighting. Code by Jack Machiela, 2018 v1.0
 
 int LDR_PIN = 0;                   // analog pin to which LDR sensor is connected (0 so it means A0)
 int LDR_Value = 0;                 // a variable to store LDR values
